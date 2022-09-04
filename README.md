@@ -1,4 +1,5 @@
-# pokemon-analysis
+# Pokemon analysis
+
 
 The goal of this analysis is to give insights about legendary pokemons (most commons types*, statistics** ...) and to build our first machine learning model to predict if any pokemon in a pokedex is a legendary pokemon. 
 
